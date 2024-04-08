@@ -3,6 +3,7 @@
 Managing compensation is a complex endeavor that covers multiple facets including salaries, wages, bonuses, benefits, and additional incentives given to employees for their work. It involves navigating a delicate balance between budget constraints and providing fair rewards to employees.
 
 In the practical scenario of our dummy data project, we address similar elements. This entails a fictional organization- Cityla, handling compensation management across various outlined factors. I've utilized Pandas to analyse data.
+
 Project Venice (Exceeded Expectations)
 
 •	Employees (3 OR ABOVE years in the company):
