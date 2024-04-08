@@ -22,6 +22,7 @@ o	Regular Bonus: 50% bonus (paid in full).
 o	Hike: 5%
 
 Project Tokyo (Met Expectations)
+
 •	Employees (3 OR ABOVE years in the company):
 o	Bonus: Regular bonus (10% for Grade A/B, 15% for C/D) + 20k additional bonus (paid in full).
 
@@ -37,8 +38,10 @@ o	Regular Bonus: 50% bonus (paid in full).
 o	Hike: 5%
 o	(if joined after April 1, 2023): Prorated hike and bonus.
 
-Project Gemcom (Below Expectations)- 5% Hike
-•	Employees (All):
+Project Gemcom (
+
+Below Expectations)- 5% Hike
+
 o	Bonus: 50% of Regular bonus (10% for Grade A/B, 15% for C/D) (paid in full).
 o	Hike (if joined after April 1, 2023): Prorated hike and bonus.
 
