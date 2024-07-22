@@ -4,7 +4,7 @@ Managing compensation is a complex endeavor that covers multiple facets includin
 
 In the practical scenario of our dummy data project, we address similar elements. This entails a fictional organization- Cityla, handling compensation management across various outlined factors. I've utilized Pandas to analyse data.
 
-Project Venice (Exceeded Expectations)
+**Project Venice (Exceeded Expectations)**
 
 •	Employees (3 OR ABOVE years in the company):
 
