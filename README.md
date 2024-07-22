@@ -6,46 +6,44 @@ In the practical scenario of our dummy data project, we address similar elements
 
 **Project Venice (Exceeded Expectations)**
 
-•	Employees (3 OR ABOVE years in the company):
+•	**Employees** (3 OR ABOVE years in the company):
 
-o	Bonus: Regular bonus (10% for Grade A/B, 15% for C/D) + 50k additional bonus (paid in full).
+o	**Bonus**: Regular bonus (10% for Grade A/B, 15% for C/D) + 50k additional bonus (paid in full).
 
-o	Hike:
+o	**Hike**:
 	Below 50th percentile: 18% hike.
 	Above 50th percentile: 12% hike.
 
-•	Employees (2-3 years in the company):
-o	Bonus: Regular bonus (prorated for those joined after April 1, 2023)+ 25K
+•	**Employees** (2-3 years in the company):
+o	**Bonus**: Regular bonus (prorated for those joined after April 1, 2023)+ 25K
 
-•	Employees (Below Rating 7):
-o	Regular Bonus: 50% bonus (paid in full).
-o	Hike: 5%
+•	**Employees** (Below Rating 7):
+o	**Regular Bonus**: 50% bonus (paid in full).
+o	**Hike**: 5%
 
-Project Tokyo (Met Expectations)
+**Project Tokyo (Met Expectations)**
 
 •	Employees (3 OR ABOVE years in the company):
 o	Bonus: Regular bonus (10% for Grade A/B, 15% for C/D) + 20k additional bonus (paid in full).
 
-o	Hike:
+o	**Hike**:
 	Below 50th percentile: 12% hike.
 	Above 50th percentile: 10% hike.
 
-•	Employees (2-3 years in the company):
-o	Bonus: Regular bonus (prorated for those joined after April 1, 2023)+10K
+•	**Employees (2-3 years in the company**):
+o	**Bonus**: Regular bonus (prorated for those joined after April 1, 2023)+10K
 
-•	Employees (Below Rating 7):
-o	Regular Bonus: 50% bonus (paid in full).
-o	Hike: 5%
+•**	Employees (Below Rating 7):**
+o	**Regular Bonus:** 50% bonus (paid in full).
+o	**Hike:** 5%
 o	(if joined after April 1, 2023): Prorated hike and bonus.
 
-Project Gemcom (
+**Project Gemcom (Below Expectations)- 5% Hike**
 
-Below Expectations)- 5% Hike
+o	**Bonus:** 50% of Regular bonus (10% for Grade A/B, 15% for C/D) (paid in full).
+o	**Hike** (if joined after April 1, 2023): Prorated hike and bonus.
 
-o	Bonus: 50% of Regular bonus (10% for Grade A/B, 15% for C/D) (paid in full).
-o	Hike (if joined after April 1, 2023): Prorated hike and bonus.
-
-Note:
+**Note:**
 
 •	Regular bonus percentages are based on employee grade.
 •	Joining after April 1, 2023 impacts bonus and hike calculations (prorated).
